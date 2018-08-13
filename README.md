@@ -1,2 +1,2 @@
-# f2
-ref,reff,ff,f2,ref2. en taro adun
+# f2:core
+饭岛计划的分支：饭否重制版
